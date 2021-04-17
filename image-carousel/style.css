@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body,html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    color: black;
+    min-height: 100vh;
+}
+.carousel{
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    overflow: hidden;
+}
+.image-container{
+    display: flex;
+    left:0;
+    position: absolute;
+    transition: transform 0.5s linear;
+    transform: translateX(0);
+}
+#carousel-img{
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;   
+}
