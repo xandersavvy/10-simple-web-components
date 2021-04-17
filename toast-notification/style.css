@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+body,html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0%;
+    font-size: large;
+    min-height: 100vh;
+    color: black;
+}
+#btn{
+    background-color: blueviolet;
+    color: aliceblue;
+    border: none;
+    font-weight: bolder;
+    padding:2vw;
+    border-radius: 12px;
+}
+.toast-notification{
+    position: fixed;
+    bottom: 1vh;
+    padding: 6%;
+    background:hsl(0, 0%, 96%);
+    box-shadow: 0 0 0 10% hsla(0, 0%, 96%, 0.603);
+    border: solid hsl(0, 0%, 97%) 5px;
+    border-radius: 20px;
+    height: 30vh;
+    color: rebeccapurple;
+    width: 30vw;
+    right: 3vw;
+    animation: entry 3s;
+}
+.close-button{
+    position: fixed;
+    bottom: 28vh;
+    background:white;
+    border: none;
+    animation: entry 3s;
+    border-radius: 20px;
+    color: rebeccapurple;
+    right: 3.1vw;    
+}
+button{
+    cursor: pointer;
+}
+/* animation */
+@keyframes entry {
+    from {
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
