@@ -2,7 +2,7 @@
 This is my 10 HTML CSS VANILLA JS component , this is inspired by florin pop. His coding challenge is fun to watch and follow .
 ## auto write text
 Animation of auto write a string
-[## countdown timer](./rain-drop)
+## [countdown timer](https://xandersavvy.github.io/10-simple-web-components/countdown-timer)
 Countdown to a specific day
 ## hamburger
 Hamburger menu icon
