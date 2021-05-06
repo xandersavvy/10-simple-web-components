@@ -1,18 +1,18 @@
 # 10-simple-web-components
 This is my 10 HTML CSS VANILLA JS component , this is inspired by florin pop. His coding challenge is fun to watch and follow .
-## auto write text
+## [Auto Write Text](./auto-write-text)
 Animation of auto write a string
-## [countdown timer](https://xandersavvy.github.io/10-simple-web-components/countdown-timer)
+## [Countdown Timer](./countdown-timer)
 Countdown to a specific day
-## hamburger
+## [Hamburger](./hamburger)
 Hamburger menu icon
-## image carousel
+## [Image Carousel](./image-carousel)
 Auto changing image carousel
-## pop up
+## [Pop Up](./pop-up)
 A message that will pop full screen notification
-## rain drop
+## [Rain Drop](./rain-drop)
 Animation of rain
-## random background 
+## [Random Background](./random-background) 
 change of background color when clicked 
-## sound board
+## [Sound_Board](./sound board)
 Click various button to play various sound
