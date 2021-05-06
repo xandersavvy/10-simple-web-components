@@ -14,5 +14,7 @@ A message that will pop full screen notification
 Animation of rain
 ## [Random Background](./random-background) 
 change of background color when clicked 
-## [Sound Board](./sound board)
+## [Sound Board](./sound-board)
 Click various button to play various sound
+## [Toast Notification](./toast-notification)
+## [Zoom effect](./zoom-effect)
